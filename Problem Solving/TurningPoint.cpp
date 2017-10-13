@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int total=0;
-int tread[2000];
+int tread[1000000];
 int inc=0;
 int dec=0;
 
