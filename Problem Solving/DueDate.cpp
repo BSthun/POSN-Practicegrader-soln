@@ -1,12 +1,12 @@
 #include<stdio.h>
 
-int worker, no, order[10001];
+int worker, no;
 int date=0;
 int curr=1;
-int due[10001];
 
 int main(){
   scanf("%d %d", &worker, &no);
+  int order[no+1],due[10001];
   for(int i=1; i<=no; i++){
     scanf("%d", &order[i]);
   }
