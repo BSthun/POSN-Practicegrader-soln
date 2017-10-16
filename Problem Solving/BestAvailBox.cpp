@@ -17,7 +17,7 @@ int boxType(int inp){
   if(input[inp][0] <= 8 && input[inp][1] <= 10 && input[inp][2] <= 15 && boxamount[1]>0) return 1;
   if(input[inp][0] <= 12 && input[inp][1] <= 15 && input[inp][2] <= 25 && boxamount[2]>0) return 2;
   if(input[inp][0] <= 20 && input[inp][1] <= 40 && input[inp][2] <= 50 && boxamount[3]>0) return 3;
-  if(input[inp][0] > 20 || input[inp][1] > 40 || input[inp][2] > 50 && boxamount[3]>0) return -1;
+  if(input[inp][0] > 20 || input[inp][1] > 40 || input[inp][2] > 50) return -1;
   return -2;
 }
 
