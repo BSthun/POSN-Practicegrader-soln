@@ -25,7 +25,7 @@ int main(){
         break;
     }
     if(!co){
-        cout<<"Oversize product"<<endl;
+        cout<< "Oversize product" <<endl;
         cout<<(siz[0]*siz[1]*siz[2])-(box[2][0]*box[2][1]*box[2][2]);
     }
 }
