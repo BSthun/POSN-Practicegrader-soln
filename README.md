@@ -1,5 +1,10 @@
-# SU Practice Grader solution for POSN.
-### Solution guide and exmaple code for practice in Silpakorn University programming grader for POSN camp 1. 
-###### Go to [practicegrader2.cp.su.ac.th](http://practicegrader2.cp.su.ac.th)
+# Solution for SU Practice Grader in POSN Camp.
+ตัวอย่างโค๊ตที่ตรวจสอบและผ่านการให้คะแนนแล้วจากโจทย์ในระบบ Grader สำหรับค่ายสอวน.คอมพิวเตอร์ ค่าย 1
+โค๊ตในนี้ทำตามโจทย์ในระบบ Grader ของม.ศิลปากร ในค่ายสอวน.คอมฯ ปี 2561, 2562 และได้แจกไว้เผื่อเป็นแนวทางในการฝึกทำโจทย์สำหรับผู้ที่สนใจ
+นี่เป็นเพียงแค่แนวทางเท่านั้น จริงๆแล้วอาจจะมีวิธีในการแก้โจทย์ที่มีประสิทธิภาพมากกว่านี้ก็ได้
+
+###### Grader: [practicegrader2.cp.su.ac.th](http://practicegrader2.cp.su.ac.th)
 
 > Author : Bhumjate Sudprasert ([@BSthun](https://github.com/BSthun))
+
+> Update (7 May 2020): archiveรีโปนี้เพราะผ่านค่ายไปแล้วและคงไม่ได้ทำต่ออีกแล้ว เหลือเพียงแค่เก็บไว้เฉยๆเท่านั้น
